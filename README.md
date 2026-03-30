@@ -29,7 +29,6 @@ Mizan Wallet helps you track your personal finances with ease. Think of it as a 
 
 Additions on top of the original Ivy Wallet codebase:
 
-- **Zakat Tracking** — Built-in Zakat calculation and tracking for Muslim users (Nisab threshold, Hawl year, asset categorization)
 - **Automated CI/CD** — GitHub Actions pipeline with Telegram notifications for every build and release
 - **Mizan branding** — Rebranded UI across all 18+ supported languages
 
